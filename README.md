@@ -272,33 +272,24 @@ Mission:
 </div>
 
 ---
-
 # 🌍 Let's Connect
 
-<div align="">
+<div style="display: flex; align-items: center; gap: 18px; flex-wrap: wrap;">
 
 <a href="https://github.com/meddhia07">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/dhia-rached-a20495313/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:mohameddhia.rached@esprit.tn">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.upwork.com/freelancers/~015e7b8b70cd8978ff">
-
 <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-
 </a>
 
 </div>
