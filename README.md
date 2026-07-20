@@ -1,15 +1,19 @@
 <div align="center">
 
-# 👋 Mohamed Dhia Rached
-
-### Software Engineer • AI Automation Engineer • Full-Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+software+that+solves+real+problems.;Full-Stack+Development.;AI+Automation+%26+Backend+Engineering.;Always+learning.+Always+building."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,30:0B1220,70:2563EB,100:38BDF8&text=Mohamed%20Dhia%20Rached&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Automation%20•%20Full-Stack%20Developer&descAlignY=56&animation=fadeIn"/>
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Software+That+Solves+Real+Problems.;AI+Automation+Enthusiast.;Python+Developer.;Backend+Engineer.;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+
+<p>
+
 <a href="https://github.com/meddhia07">
-<img src="https://img.shields.io/github/followers/meddhia07?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/meddhia07?style=for-the-badge&logo=github&color=181717"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=meddhia07">
+<img src="https://komarev.com/ghpvc/?username=meddhia07&style=for-the-badge&color=0e75b6"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhia-rached-a20495313/">
@@ -24,129 +28,139 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
 ```yaml
-Name: Mohamed Dhia Rached
-Location: Tunisia 🇹🇳
-Education: Software Engineering @ ESPRIT
-Focus:
+name: Mohamed Dhia Rached
+
+location: Tunisia 🇹🇳
+
+education:
+  - Software Engineering Student @ ESPRIT
+
+roles:
+  - Software Engineer
+  - AI Automation Enthusiast
+  - Full-Stack Developer
+
+currently:
+  - Building intelligent software
+  - Learning Agentic AI
+  - Exploring Cloud & Data Engineering
+  - Improving Backend Architecture
+
+interests:
   - Artificial Intelligence
-  - Backend Engineering
-  - Full-Stack Development
   - Workflow Automation
+  - Backend Development
   - Data Engineering
-
-Current Goal:
-Building intelligent software that combines AI,
-automation and scalable backend systems.
+  - Scalable Systems
 ```
 
 ---
 
-## ⚡ Tech Stack
+# 🚀 What Defines Me
 
-### 💻 Languages
+> I enjoy building software that automates repetitive work, transforms data into useful insights, and solves real-world problems through clean engineering.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,sql&perline=6"/>
-</p>
+- 🤖 AI & Automation
+- ⚙️ Backend Engineering
+- 🌐 Full-Stack Development
+- 📊 Data Processing
+- ☁️ Cloud Technologies
+- 📈 Continuous Learning
 
-### 🌐 Frameworks
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,symfony,spring,fastapi,flask,flutter&perline=7"/>
-</p>
+# 💻 Tech Stack
 
-### 🗄 Databases
+## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=4"/>
-</p>
+<p align="center">
 
-### ☁️ Tools
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,sql"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma&perline=7"/>
 </p>
 
 ---
 
-## 🚀 What I Enjoy Building
+## Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,spring,symfony,flask,fastapi"/>
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
 
 ```text
-▣ Full-Stack Web Applications
+🧠 Agentic AI
 
-▣ AI-Powered Software
+🔗 Model Context Protocol (MCP)
 
-▣ Workflow Automation
+☁️ Cloud Architecture
 
-▣ REST APIs
+📊 Data Engineering
 
-▣ Web Scraping Pipelines
+⚡ Distributed Systems
 
-▣ Backend Systems
+🐳 Docker & DevOps
 
-▣ Intelligent Bots
-
-▣ Data Processing
+🏗️ System Design
 ```
 
 ---
 
-## 📚 Currently Learning
-
-```text
-• Agentic AI
-
-• Model Context Protocol (MCP)
-
-• Cloud Architecture
-
-• Distributed Systems
-
-• System Design
-```
-
----
-
-## 📈 GitHub Analytics
+# 🌐 Connect With Me
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=meddhia07&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddhia07&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=meddhia07&theme=github-compact&hide_border=true&area=true"/>
-
-</p>
-
----
-
-## 🌍 Connect
-
-<p align="center">
-
-<a href="https://github.com/meddhia07">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 
 <a href="https://www.linkedin.com/in/dhia-rached-a20495313/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.upwork.com/freelancers/~015e7b8b70cd8978ff">
-<img src="https://img.shields.io/badge/UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+&nbsp;
+
+<a href="https://github.com/meddhia07">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+&nbsp;
+
+<a href="https://www.upwork.com/freelancers/~015e7b8b70cd8978ff">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+&nbsp;
 
 <a href="mailto:mohameddhia.rached@esprit.tn">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -158,6 +172,6 @@ automation and scalable backend systems.
 
 <div align="center">
 
-### 💡 *"Building software that solves real problems through clean engineering and intelligent automation."*
+### 💡 *"Great software isn't built by writing more code — it's built by solving the right problems."*
 
 </div>
