@@ -130,4 +130,187 @@ Mission:
 </table>
 
 ---
+# 💻 Tech Stack
 
+<div align="center">
+
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,sql"/>
+
+<br><br>
+
+## 🚀 Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,spring,symfony,fastapi,flask"/>
+
+<br><br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+
+<br><br>
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma"/>
+
+</div>
+
+---
+
+# 🤖 AI & Automation
+
+<div align="center">
+
+| AI | Automation | Cloud |
+|:---:|:---:|:---:|
+| OpenAI | n8n | AWS |
+| Gemini | GitHub Actions | Docker |
+| Groq | REST APIs | Firebase |
+| LangChain | Web Scraping | Linux |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meddhia07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=meddhia07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meddhia07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=meddhia07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meddhia07&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+# 🎯 Currently Learning
+
+<div align="center">
+
+| 🌱 Learning | 🚀 Goal |
+|:------------|:---------|
+| 🤖 Agentic AI | Build autonomous AI systems |
+| 🔗 Model Context Protocol (MCP) | Connect AI with external tools |
+| ☁️ Cloud Computing | Deploy scalable applications |
+| 🏗️ System Design | Build production-ready software |
+| 📊 Data Engineering | ETL • Pipelines • Analytics |
+| ⚡ DevOps | CI/CD • Docker • GitHub Actions |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Udemy-100%20Days%20of%20Code-5624D0?style=for-the-badge&logo=udemy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SCRUM-Scrum%20Fundamentals%20Certified-009FDA?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meddhia07/meddhia07/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meddhia07/meddhia07/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/meddhia07/meddhia07/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</picture>
+
+</div>
+
+---
+
+# 💭 Philosophy
+
+<div align="center">
+
+> **"Code is not the goal. Solving real problems is."**
+
+> **"Keep learning. Keep building. Keep improving."**
+
+</div>
+
+---
+
+# 🌍 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/meddhia07">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/dhia-rached-a20495313/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mohameddhia.rached@esprit.tn">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.upwork.com/freelancers/~015e7b8b70cd8978ff">
+
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider following me or starring one of my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:38BDF8"/>
+
+</div>
+
+---
