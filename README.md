@@ -275,7 +275,7 @@ Mission:
 
 # 🌍 Let's Connect
 
-<div align="center">
+<div align="">
 
 <a href="https://github.com/meddhia07">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
